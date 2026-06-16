@@ -196,4 +196,4 @@ For issues or questions:
 
 ---
 
-**Made with ❤️ for aspiring tech professionals**
+**Made for tech professionals**
