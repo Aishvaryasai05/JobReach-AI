@@ -462,6 +462,34 @@ This hackathon pushed me to go beyond writing code. Here's a breakdown of the re
 
 <br/>
 
+## 📬 Contact
+
+<div align="center">
+
+**Got feedback, ideas, or want to collaborate? Reach out — happy to connect.**
+
+<br/>
+
+<a href="mailto:aishvaryasai@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ayinam-aishvarya-s-5b9a86292/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Aishvaryasai05" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/>
+
 ## 📜 License
 
 This project is licensed under the **MIT License** — free to use for personal or commercial purposes.
