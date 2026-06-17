@@ -494,8 +494,6 @@ This project is licensed under the **MIT License** — free to use for personal 
 
 <br/>
 
-<img src="https://img.shields.io/badge/Built%20with-Anthropic%20Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-&nbsp;
 <img src="https://img.shields.io/badge/Part%20of-ECSoC%202026-ff6b9d?style=for-the-badge&logo=hackthebox&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20Source-Forever-10b981?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
