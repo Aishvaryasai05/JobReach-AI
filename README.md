@@ -9,7 +9,7 @@
 <p align="center">
   <em>Stop guessing. Start getting hired.<br/>
   Build smarter resumes, write sharper cover letters, and walk into every interview ready<br/>
-  — all in one place, powered by Anthropic Claude.</em>
+  — all in one place.</em>
 </p>
 
 <br/>
