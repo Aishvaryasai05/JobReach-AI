@@ -106,14 +106,6 @@ No sign-up friction. No paywalls. Just fast, Claude-powered output with a beauti
   <img src="https://img.shields.io/badge/Lucide_Icons-f59e0b?style=for-the-badge&logo=feather&logoColor=white" />
 </p>
 
-### AI & Intelligence
-
-<p>
-  <img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Sonnet_4-7c3aed?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-06b6d4?style=for-the-badge&logo=googlegemini&logoColor=white" />
-</p>
-
 ### State & Routing
 
 <p>
