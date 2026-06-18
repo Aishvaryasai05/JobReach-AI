@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=JobReach%20AI&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Career%20Acceleration%20Platform%20%E2%80%94%20Powered%20by%20Claude%20AI&descAlignY=60&descSize=17&descColor=06b6d4" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=JobReach%20AI&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Career%20Acceleration%20Platform%20%E2%80%94%20Actively%20Updating&descAlignY=60&descSize=17&descColor=06b6d4" />
+
+<img src="https://img.shields.io/badge/🔴%20LIVE-Actively%20Updating-ef4444?style=flat-square&logoColor=white&labelColor=1a1a2e" />
 
 <br/>
 
@@ -81,8 +83,6 @@ No sign-up friction. No paywalls. Just fast, Claude-powered output with a beauti
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br/>
-
-
 
 ## 🛠️ Tech Stack
 
